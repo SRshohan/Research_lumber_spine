@@ -1,0 +1,6 @@
+pillow
+seaborn
+pandas
+polars
+pydicom
+matplotlib
