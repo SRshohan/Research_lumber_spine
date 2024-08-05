@@ -21,6 +21,8 @@
 ## Week 5 (cuurent week)
 
 1. Document and possibly implement data cleaning process including imputing data for missing data and to balance the dataset.
+    - Imputed and balanced the dataset with SkitLearn using SimpleImputer as strategy 'most_frequent'
+    - Wrote 2 important function to compare the scenarios like after and before imputing and showed using piechart
 2. Document the output architecture based upon 5*5=25 sets of 3 severity levels which can then be applied to a softmax layer that processes each of those 3 severity levels as a probability. Document how that will be transformed to a submission file. 
 3. Study appropriate loss function for 1 of 3 severity levels and how to combine all 25 of them for a single study 
 4. Investigate distribution of number of series per study (1, 2 or 3) and number of instances per series (1 - 15?)
