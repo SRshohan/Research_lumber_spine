@@ -1,3 +1,12 @@
+## Table of Contents
+1. [Phase 1](#Phase 1)
+2. [Usage](#usage)
+3. [Features](#features)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact Information](#contact-information)
+7. [Acknowledgements](#acknowledgements)
+
 # Phase 1
 
 ## Week 4
