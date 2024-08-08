@@ -1,5 +1,5 @@
 ## Table of Contents
-1. [Phase 1](#Phase 1)
+1. [Phase 1](#Phase1)
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Contributing](#contributing)
@@ -38,6 +38,9 @@
 - Extract the condition for the specific spinal region and level, retract the condition value from the 'train.csv'
 - Converted the extracted condition into numerical format
 
+## Week 6
+1. Using x, y coordinates to extract ROI (Region of Interest)
+- One of the use case for the coordinates
 
 ## Installation requirements
 
