@@ -28,7 +28,7 @@
 4. Investigate distribution of number of series per study (1, 2 or 3) and number of instances per series (1 - 15?)
 5. Research techniques to handle variable number of inputs (input size) via scholar.google.com, Medium/stackoverflow/TowardsDataScience.com/etc., and other peoples’ notebooks.
 
-### Things been  DOne
+### Things been Done
 - Created a custom datset by keeping in mind the severity level and output architecture
 - Create a pipeline to preprocess the data to labeled data from train_label_coordinates
 - Mapped each condition for the specific region and level to a numerical format that a model can use from 'train_label_coordinates' and mapped it to "Normal/Mild" = 1
@@ -38,7 +38,6 @@
 - Extract the condition for the specific spinal region and level, retract the condition value from the 'train.csv'
 - Converted the extracted condition into numerical format
 
-```
 
 ## Installation requirements
 
