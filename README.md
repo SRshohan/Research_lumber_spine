@@ -41,6 +41,8 @@
 ## Week 6
 1. Using x, y coordinates to extract ROI (Region of Interest)
 - One of the use case for the coordinates
+2. Object Detection 
+3. Nomarlize the image dataset
 
 ## Installation requirements
 
