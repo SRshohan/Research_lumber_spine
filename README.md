@@ -44,6 +44,12 @@
 2. Object Detection 
 3. Nomarlize the image dataset
 
+## Week 7
+1. SMOTE the dataset
+2. Padding (Figure out how to do padding and find the library)
+3. Object detection model
+4. Color image
+
 ## Installation requirements
 
 - Installing all the necessary requirements
