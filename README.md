@@ -48,7 +48,7 @@
 1. SMOTE the dataset
 2. Padding (Figure out how to do padding and find the library)
 3. Object detection model
-4. Color image
+4. Color image (no color image found)
 
 ## Installation requirements
 
