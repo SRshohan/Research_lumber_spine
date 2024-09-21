@@ -52,7 +52,7 @@
 
 ## Installation requirements
 
-- Installing all the necessary requirements
+- Installing all the necessary requirements before starting
 
 ```sh
 pip install -r requirements.txt
